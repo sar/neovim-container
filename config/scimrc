@@ -1,0 +1,5 @@
+set autocalc
+set numeric
+set overlap
+set xlsx_readformulas
+

@@ -2,6 +2,7 @@
 
 # secrets
 .env
+.sudo
 
 # cache
 pkgs/*.deb*
